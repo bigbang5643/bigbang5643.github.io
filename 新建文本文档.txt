@@ -1,5 +1,0 @@
-git add .
-git commit -m"¸üĞÂindex.html£¬±àĞ´²©ÎÄ²âÊÔ"
-git push 
-Username for'https://github.com':  bigbang5643
-Password for'https://bigbang5643@github.com': bigbang123
